@@ -9,4 +9,4 @@ Patterned after the [tutorial](http://scotch.io/tutorials/off-canvas-menus-with-
 This uses Bootstrap and jQuery, but it could easily be cut free of those.
 
 ### Demo
-http://jsbin.com/dutob/4
+http://jsbin.com/xiviza/1/
