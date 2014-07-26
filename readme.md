@@ -1,6 +1,6 @@
 # Off-Window Side Panel
 
-You know that thing where where you click a menu button, and everything slides over?
+You know that thing where where you click a menu button and everything slides over?
 
 Here's a simple method to build one of those.
 
